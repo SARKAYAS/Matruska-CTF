@@ -27,7 +27,3 @@ output_folder: Geçici çıkarma dizini
 
 ```bash
 python matruska.py
-
-
-
-
