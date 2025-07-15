@@ -14,10 +14,6 @@ Bu Python scripti, iç içe geçmiş ZIP arşivlerini otomatik olarak açarak en
 2. Python 3 yüklü olduğundan emin olun.
 3. Gerekli modüller: `zipfile`, `os` (Python ile birlikte gelir).
 
-## 📦 Kurulum
-
-Python 3 yüklü olması yeterlidir. Ekstra bir kütüphane gerektirmez.
-
 
 ## Nasıl Kullanılır?
 
